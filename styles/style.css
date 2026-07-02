@@ -24,13 +24,15 @@
 }
 
 .nav__logo {
+  width: 200px;
+  height: 40px;
 }
 
 .nav__links {
   column-gap: 20px;
   display: flex;
   font-family: arial, sans-serif;
-  list-style: none;
+  list-style-type: none;
   margin: 8px 0 0;
   padding: 0;
 }
@@ -60,13 +62,14 @@
   font-family: arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
-  margin: 0;
+  margin: 32px 0 0;
   max-width: 515px;
   text-align: justify;
 }
 
 .header__image {
-  max-width: 50%;
+  width: 550px;
+  height: 370px;
 }
 
 .header__footer {
